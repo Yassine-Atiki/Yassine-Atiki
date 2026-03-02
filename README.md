@@ -1,57 +1,49 @@
 # Yassine Atiki
 
-Engineering student · Computer Science & Networks · EMSI
+Full-stack engineer building scalable web, mobile, and enterprise applications with Java, Python, JavaScript, and C#.
 
 ---
 
-## ◆ About
+## About
 
-I build full-stack web and mobile applications with a focus on clean architecture and practical problem-solving. My work spans backend systems in Django, Spring Boot, and ASP.NET Core to cross-platform mobile apps with React Native. I gravitate toward projects that involve real data, real users, and real constraints.
-
----
-
-## ◆ Now
-
-- Studying computer science and network engineering at EMSI
-- Building full-stack apps across web and mobile — most recently a React Native marketplace and a Django + Neo4j transit platform
-- Learning graph databases, mobile-first architecture, and API-driven design
+I'm a 4th-year Computer Science & Networks Engineering student at EMSI (École Marocaine des Sciences de l'Ingénieur), passionate about designing and developing robust, scalable software solutions, I bring a professional approach to full-stack development — spanning enterprise Java/Spring Boot applications, modern web frameworks like React, Next.js, Vue.js, Django, and mobile development with React Native and Flutter. I'm driven by a commitment to clean code, industry standards, and continuous learning.
 
 ---
 
-## ◆ Focus
+## Engineering Approach ⚙️
 
-- Full-stack web development
-- Mobile development
-- Backend systems & REST APIs
-- Graph databases & data modelling
+I design software with separation of concerns and long-term maintainability as first principles. Every project starts with a clear domain model, well-defined API contracts, and layered architecture — whether it's a Spring Boot backend with service/repository patterns, a Django application backed by a graph database, or a cross-platform mobile app with role-based flows. I favour convention-driven project structures, strict dependency management, and reproducible environments to keep codebases clean and scalable as requirements evolve.
 
 ---
 
-## ◆ Selected Work
+## Selected Projects 🚀
 
-**[SmartTransit](https://github.com/Yassine-Atiki/SmartTransit)** — Full-stack web app for managing and navigating urban transit networks with Dijkstra-based routing and real-time analytics. Django · Neo4j · Python
+**[SmartTransit](https://github.com/Yassine-Atiki/SmartTransit)**
+Urban transit network management platform with Dijkstra-based shortest-path routing and real-time admin analytics — Django, Neo4j, Python.
 
-**[SoukDigital](https://github.com/Yassine-Atiki/SoukDigital)** — Cross-platform mobile marketplace connecting customers with Moroccan artisans, featuring JWT auth, artisan dashboards, and role-based flows. React Native · Express · MySQL
+**[SoukDigital](https://github.com/Yassine-Atiki/SoukDigital)**
+Cross-platform mobile marketplace connecting customers with Moroccan artisans through JWT-secured role-based flows and artisan dashboards — React Native, Express, MySQL.
 
-**[AttijariwafabankConvertisseur](https://github.com/Yassine-Atiki/AttijariwafabankConvertisseur)** — Banking message converter from ISO 20022 (MX) to SWIFT MT101 format with XSD validation and conversion history. Spring Boot · MongoDB · Java
-
----
-
-## ◆ Stack
-
-**Languages:** Python · Java · JavaScript · C# · PHP · C
-
-**Tools:** Django · Spring Boot · ASP.NET Core · React Native · Node.js · Neo4j · MySQL · MongoDB · Git
+**[AttijariwafabankConvertisseur](https://github.com/Yassine-Atiki/AttijariwafabankConvertisseur)**
+Enterprise banking message converter transforming ISO 20022 MX (pain.001) to SWIFT MT101 with XSD validation and conversion history — Spring Boot, MongoDB, Java.
 
 ---
 
-## ◆ Stats
+## Technical Stack 🧩
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yassine-Atiki&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" />
+**Languages:** Java · Python · JavaScript · C# · PHP · C
+
+**Frameworks & Tools:** Spring Boot · Django · ASP.NET Core · React Native · Node.js · Express · Symfony · JavaFX · Hibernate · Neo4j · MongoDB · MySQL · SQL Server · Maven · Git
 
 ---
 
-## ◆ Let's Connect
+## GitHub Insights 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yassine-Atiki&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true">
+
+---
+
+## Contact 🤝
 
 - [LinkedIn](https://www.linkedin.com/in/yassine-atiki-b8a815332/)
 - [Email](mailto:yassineatiki28@gmail.com)
