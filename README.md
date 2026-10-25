@@ -62,21 +62,13 @@ Developed an application to automate the conversion of ISO 20022 **pain.001 v3**
 
 [Explore the mobile scanner →](https://github.com/Yassine-Atiki/3mb-events-mobileApp)
 
-### 03 / AttijariConverter
+### 03 / Telfat W Lqina
 
-**A financial message conversion workflow.** Converts ISO 20022 MX messages into SWIFT MT101, with XML/XSD validation, a web interface, downloadable results and a stored conversion history.
+**Lost-and-found management for sporting events.** A JavaFX desktop application covering object registration, ownership claims, verification and return tracking across stadiums. Includes role-based access for administrators and agents, multi-criteria search and reporting dashboards.
 
-`Java` `Spring Boot` `Spring Security` `Thymeleaf` `MongoDB`
+`Java` `JavaFX` `Hibernate` `MySQL` `Maven`
 
-[Explore the repository →](https://github.com/Yassine-Atiki/AttijariwafabankConvertisseur)
-
-### 04 / Mizaniyati
-
-**A personal finance REST API.** Covers income, expenses, category-based budgets and budgeting strategies. Uses JWT authentication, DTO mapping and a layered architecture, with OpenAPI documentation.
-
-`Java` `Spring Boot` `Spring Security` `MySQL` `MapStruct`
-
-[Explore the API →](https://github.com/Yassine-Atiki/Mizaniyati)
+[Explore the repository →](https://github.com/Yassine-Atiki/Telfat_w_lqina)
 
 <details>
 <summary><strong>More projects</strong></summary>
